@@ -1,0 +1,86 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.container{
+	padding: 50px;
+	text-align: center;
+}
+body{
+	background: url(../img/bg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.img-control{
+    width: 200px;
+    margin: 0px auto;
+    display: block;
+}
+.text-control{
+	text-align: center;
+    color: yellow;
+    font-size: xx-large;
+    margin: 10px 0px;
+
+}
+.control{
+	padding: 40px 640px;
+	text-align: center;
+}
+.Form-control{
+    padding: 10px;
+    margin: 5px;
+}
+.submit-button{
+    padding: 10px 25px;
+    margin-left: 49px;
+    box-shadow: 0 0 20px grey;
+}
+.forget-control{
+	color: gainsboro;
+    margin: 25px;
+}
+.registation-control{
+    margin: 45px;
+    color: yellow;
+}
+h1{
+	color: white;
+	margin: 20px 0;
+}
+button{
+	color: grey;
+	margin: 20px;
+}
+.links{
+
+    margin: 33px 0px;
+}
+.reg-control{
+	text-align: center;
+}
+.H{
+color: crimson;
+}
+.email-control{
+	padding: 10px;
+	margin: 5px;
+}
+.button{
+	padding: 10px;
+}
+.reg-control{
+	padding: 15px;
+}
+
+input{
+	margin: 10px;
+}
+.bt{
+	padding: 15px;
+}
+
+.bt:hover{
+	background: transparent;
+	color: white;
+}
